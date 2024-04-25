@@ -1,0 +1,4 @@
+Problèmes à régler:
+- undefined sur première opération
+- Calcul ne s'effectuant pas comme attendu [Par exemple, 2+2*4 = 10 au lieu de 12]
+- Exception non gérer sur un calcul se finissant par un operateur
